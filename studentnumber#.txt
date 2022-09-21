@@ -1,0 +1,10 @@
+"Hi Students, this file contains our secret passwords and user names. We need to encrypt it today."
+Replace this file name with your student number. Where "studentnumber#" is your student number 
+Now, in the text below replace the words with your name, surname, student number, your birthday and favourite hobby.  
+
+Enter the values below
+        Names []:
+        Surname []:  
+        Student number []:
+        Birthday []:
+        Hobbie []:
